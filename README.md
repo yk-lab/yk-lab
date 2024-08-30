@@ -1,9 +1,19 @@
 ## Hello 👋, I,m yk
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/y_k/posts.svg)](http://qiita.com/y_k)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/y_k/contributions.svg)](http://qiita.com/y_k)
+[![My zenn articles](https://zenn.badge.nikaera.com/s/y_k/articles?style=flat)](https://zenn.dev/y_k)
+[![My zenn likes](https://zenn.badge.nikaera.com/s/y_k/likes?style=flat)](https://zenn.dev/y_k)
+
 <img src="https://github-readme-stats.vercel.app/api?username=yk-lab&count_private=true&show_icons=true" alt="yk's GitHub stats" height="200px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-lab&layout=donut" alt="Top Langs" height="200px" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yk-lab&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 職務経歴書 by Findy:
+    <https://findy-code.io/share_profiles/K8vNKN_AtFfmF>
+- Lapras profile:
+    <https://lapras.com/public/YetAnother_yk>
 
 ### 📫 How to reach me
 
