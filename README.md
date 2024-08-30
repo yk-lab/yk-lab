@@ -5,6 +5,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yk-lab&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
+- 職務経歴書 by Findy:
+    <https://findy-code.io/share_profiles/K8vNKN_AtFfmF>
+- Lapras profile:
+    <https://lapras.com/public/YetAnother_yk>
+
 ### 📫 How to reach me
 
 - X (Twitter): [@YetAnother_yk](https://x.com/YetAnother_yk)
