@@ -1,5 +1,10 @@
 ## Hello 👋, I,m yk
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/y_k/posts.svg)](http://qiita.com/y_k)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/y_k/contributions.svg)](http://qiita.com/y_k)
+[![My zenn articles](https://zenn.badge.nikaera.com/s/y_k/articles?style=flat)](https://zenn.dev/y_k)
+[![My zenn likes](https://zenn.badge.nikaera.com/s/y_k/likes?style=flat)](https://zenn.dev/y_k)
+
 <img src="https://github-readme-stats.vercel.app/api?username=yk-lab&count_private=true&show_icons=true" alt="yk's GitHub stats" height="200px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-lab&layout=donut" alt="Top Langs" height="200px" />
 
